@@ -20,4 +20,5 @@ To run this app, click live github website link given below. OR
 open index.html in your browser.
 
 Repo Link: https://github.com/Hamza-Sajid/Palindrome-Checker-App
+
 Live Link: https://hamza-sajid.github.io/Palindrome-Checker-App/
