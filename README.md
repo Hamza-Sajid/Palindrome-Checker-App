@@ -1,5 +1,8 @@
 Palindrome App
 
+![image](https://user-images.githubusercontent.com/20709155/124073602-9dd82780-da5b-11eb-9070-38d5992474f0.png)
+
+
 This repo is for JavaScript Problem solving Practice activity.
 This activity is based on making different live projects given by the instructor to different teams.
 My task for Day-3 is to make a Palindrome App.
